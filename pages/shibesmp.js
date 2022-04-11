@@ -24,9 +24,9 @@ const shibesmp = () => {
                     <p>The shibe smp is on season 2.5, a modded world running on 'version' until 1.19 drops for minecraft</p>
                 </div>
                 <div>
-                    <a href='../public/CT.png'>
+                    {/*<a href='../public/CT.png'>
                         <button class={styles.btn}>Download</button>
-                    </a>
+                    </a>*/}
                 </div>
             </main>
 
