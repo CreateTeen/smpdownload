@@ -1,0 +1,91 @@
+.serverbtntemp {
+  display: inline-block;
+  width: 200px;
+  padding: 20px 0;
+  margin: 10px 0px;
+  border-radius: 10px;
+  text-align: center;
+  margin-right: 10px;
+  border: 5px solid black;
+  background: #ffffff;
+  color: #000000;
+  font-size: 25px;
+  }
+
+.serverbtnShibe {
+    display: inline-block;
+    width: 200px;
+    padding: 20px 0;
+    margin: 10px 0px;
+    border-radius: 10px;
+    text-align: center;
+    margin-right: 10px;
+    border: 5px solid black;
+    background: #55d0ff;
+    color: #be3da6;
+    font-size: 25px;
+  }
+
+  
+.serverbtnShquare {
+    display: inline-block;
+    width: 200px;
+    padding: 20px 0;
+    margin: 10px 0px;
+    border-radius: 10px;
+    text-align: center;
+    margin-right: 10px;
+    border: 5px solid black;
+    background: #6710c1;
+    color: #ffffff;
+    font-size: 25px;
+  }
+
+  .serverbtnCreateTeen {
+    display: inline-block;
+    width: 200px;
+    padding: 20px 0;
+    margin: 10px 0px;
+    border-radius: 10px;
+    text-align: center;
+    margin-right: 10px;
+    border: 5px solid black;
+    background: #ffd700;
+    color: #000000;
+    font-size: 25px;
+  }
+.title {
+    width: 500px;
+    padding: 0px 0;
+    color: black;
+    text-align: left;
+    font-size: 50px;
+  }
+
+.serverbtnCreateTeenTest {
+    display: block;
+    width: 250px;
+    padding: 8px 0;
+    margin: 10px 0px;
+    text-align: center;
+    font-size: 0px;
+    border: 5px solid black;
+    background-image: url(/public/CT.png);
+    width: 100px;
+    height: 100px;
+}
+
+.aboutCreateTeen {
+  display:inline-block;
+  width: 200px;
+  padding: 20px 0;
+  margin: 10px 0px;
+  border-radius: 10px;
+  text-align: center;
+  margin-right: 10px;
+  border: 5px solid black;
+  background: #ffd700;
+  color: #000000;
+  font-size: 25px;
+  
+}
